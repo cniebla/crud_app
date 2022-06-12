@@ -1,4 +1,7 @@
 node_modules/
+data/
 config.env
 Dockerfile
 .dockerignore
+docker-compose.yml
+.gitignore
